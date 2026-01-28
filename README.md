@@ -11,7 +11,7 @@ Currently seeking **co-op and internship opportunities** in Data Analytics, Busi
 
 ## 💼 Professional Experience
 
-**Application Support Engineer** | Virtusa Consulting (Citi Bank)  
+**Application  Analyst** | Virtusa Consulting (Citi Bank)  
 *Supporting Mortgage Home Servicing (MHS) Production Systems*
 
 - 🎯 Reduced repeat issues by **35%** through root cause analysis and preventive measures
