@@ -35,7 +35,7 @@ MS Information Systems @ Northeastern (2024–2026, GPA 3.62) · Boston, MA
 **[AgenticSystem](https://github.com/ManishKondoju/AgenticSystem)** — Six coordinated agents taking a raw dataset through profiling, table QA, anomaly detection, and reporting. Agents hand off structured intermediate results rather than raw text, which keeps errors from compounding down the chain.
 `CrewAI` `Google TAPAS` `Isolation Forest` `Streamlit` `Plotly`
 
-**[Prompt2Track](https://github.com/ManishKondoju/Prompt2Track)** — One text prompt becomes a finished track: lyrics, album art, and generated music. Three generative models orchestrated behind a single request, with long-running audio jobs handled asynchronously so the interface never blocks. 99.7% pipeline success rate.
+**[Prompt2Track](https://github.com/ManishKondoju/Prompt2Track)** — One text prompt becomes a finished track: lyrics, album art, and generated music. Three generative models orchestrated behind a single request, with long-running audio jobs handled asynchronously so the interface never blocks. 99.7% pipeline success rate. [Live demo](https://prompt2-track.vercel.app)
 `React 18` `FastAPI` `MusicGen Large` `DALL·E 3` `GPT-4`
 
 **[Health Compass](https://github.com/ManishKondoju/Health_Compass)** — RAG platform turning medical questions, lab reports, and symptom logs into answers cited straight back to MedlinePlus, CDC, WHO, and NHS. 700+ indexed documents, 13 specialist categories with urgency detection. [Live demo](https://healthcompass22.streamlit.app/)
