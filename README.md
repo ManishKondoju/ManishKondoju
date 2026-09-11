@@ -43,11 +43,11 @@ MS Information Systems @ Northeastern (2024–2026, GPA 3.62) · Boston, MA
 
 ## Toolkit
 
-**Languages** Python · SQL · JavaScript · Shell/Bash · PowerShell
-**AI & automation** LangChain · CrewAI · AutoGen · RAG pipelines · MCP integrations · Claude Code · n8n
-**Cloud & DevOps** AWS · Azure DevOps · Terraform · Docker · Kubernetes
-**Data & analytics** Oracle SQL · Neo4j · Power BI · Tableau · BigQuery · Snowflake
-**ITSM & monitoring** ServiceNow · Jira · Confluence · Splunk · ITRS Geneos · Grafana · Datadog
+- **Languages** — Python · SQL · JavaScript · Shell/Bash · PowerShell
+- **AI & automation** — LangChain · CrewAI · AutoGen · RAG pipelines · MCP integrations · Claude Code · n8n
+- **Cloud & DevOps** — AWS · Azure DevOps · Terraform · Docker · Kubernetes
+- **Data & analytics** — Oracle SQL · Neo4j · Power BI · Tableau · BigQuery · Snowflake
+- **ITSM & monitoring** — ServiceNow · Jira · Confluence · Splunk · ITRS Geneos · Grafana · Datadog
 
 **Certified** AWS Solutions Architect – Associate (2024) · Oracle Database SQL Certified Associate (2024) · ITIL v4 Foundation (2022)
 
