@@ -1,118 +1,58 @@
-# Hi there, I'm Manish Kumar 👋
+# Manish Kumar Kondoju
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:your.email@example.com)
+**Solutions Engineer / Business Systems Analyst.** Three years owning production reliability for Citi's trading systems. Now building AI tools end to end.
 
-## 🚀 About Me
+MS Information Systems @ Northeastern (2024–2026, GPA 3.62) · Boston, MA
 
-I'm a Master's student in Information Systems at **Northeastern University College of Engineering** (Expected Dec 2026 | GPA: 3.62), combining **2.5 years of production engineering experience** with cutting-edge AI/ML expertise. My professional background in supporting mission-critical banking systems at Citi, coupled with hands-on experience in building intelligent applications, positions me uniquely at the intersection of enterprise reliability and innovative technology.
-
-Currently seeking **co-op and internship opportunities** in Data Analytics, Business Intelligence, Application Support, and AI/ML Engineering.
-
-## 💼 Professional Experience
-
-**Application  Analyst** | Virtusa Consulting (Citi Bank)  
-*Supporting Mortgage Home Servicing (MHS) Production Systems*
-
-- 🎯 Reduced repeat issues by **35%** through root cause analysis and preventive measures
-- 📚 Created **15+ SOPs** for incident management and system maintenance procedures
-- 🔧 Managed production incidents, database administration, and cross-functional coordination
-- ⚡ Ensured 99.9% uptime for critical banking operations serving millions of customers
-
-## 🛠️ Technical Toolkit
-
-**Languages & Frameworks**  
-`Python` `SQL` `JavaScript` `R` `Java`
-
-**AI/ML & Data Science**  
-`LangChain` `LlamaIndex` `Hugging Face` `TensorFlow` `PyTorch` `Scikit-learn` `Pandas` `NumPy`
-
-**Databases & Vector Stores**  
-`Neo4j` `PostgreSQL` `MongoDB` `ChromaDB` `FAISS` `Pinecone`
-
-**Cloud & DevOps**  
-`AWS` `Azure` `Docker` `Git` `CI/CD` `ServiceNow` `JIRA`
-
-**Visualization & BI**  
-`Tableau` `Power BI` `Streamlit` `Plotly` `Matplotlib` `Seaborn`
-
-## 🔬 Featured Projects
-
-### 🏥 [Health Compass](https://github.com/your-username/health-compass)
-**Multi-Agent Health Intelligence Platform**
-
-A comprehensive healthcare AI application featuring personal health timelines, symptom analysis, and medication management powered by ChromaDB vector storage and LangChain agents.
-
-**Tech Stack:** Python, LangChain, ChromaDB, Streamlit, OpenAI API  
-**Key Features:** 
-- Personal health timeline tracking with temporal context
-- Intelligent symptom analysis using multi-agent architecture
-- Medication interaction checking and management
-- Vector-based semantic search for medical information
-
-### 🕵️ [CrimeGraphRAG](https://github.com/your-username/crimegraphrag)
-**Graph-Based Crime Investigation Platform**
-
-A sophisticated crime analytics system combining Neo4j knowledge graphs with LLM integration for criminal network analysis and investigation support.
-
-**Tech Stack:** Neo4j, Python, LangChain, Cypher, Graph Algorithms  
-**Key Features:**
-- Complex criminal network visualization and analysis
-- Graph algorithm-based pattern detection
-- Natural language querying of crime databases
-- Interactive investigation dashboards
-
-
-### 🎨 [Prompt2Track](https://github.com/your-username/prompt2track)
-**Multi-Modal AI Content Generation Platform**
-
-A versatile content creation platform supporting text, image, and audio generation through unified prompt interface.
-
-**Tech Stack:** Python, Streamlit, DCGAN, Multiple AI APIs  
-**Key Features:**
-- Unified multi-modal content generation
-- DCGAN implementation for image synthesis
-- Interactive web interface for content creation
-
-## 📚 Academic Focus
-
-**Current Coursework:**
-- Advanced Data Analytics & Business Intelligence
-- Generative AI & Large Language Models
-- Machine Learning Engineering
-- Cloud Computing & Distributed Systems
-- Causal Inference & Statistical Modeling
-
-**Recent Academic Projects:**
-- RAG Systems Tutorial with Interactive Notebooks
-- Time Series Forecasting Applications
-- DCGAN Implementation for Image Generation
-- Anomaly Detection in Production Systems
-
-## 🎯 What I'm Looking For
-
-I'm actively seeking opportunities where I can:
-- Apply production engineering discipline to AI/ML system development
-- Build reliable, scalable data analytics solutions
-- Bridge the gap between cutting-edge research and production deployment
-- Contribute to teams building intelligent applications that solve real-world problems
-
-**Open to:** Co-op positions, Internships, Research Collaborations
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-## 🤝 Let's Connect!
-
-I'm always interested in discussing:
-- Production ML/AI system design and reliability
-- Graph databases and knowledge representation
-- Healthcare technology and digital health
-- Enterprise software engineering best practices
-
-Feel free to reach out for collaboration, opportunities, or just a technical chat!
+[LinkedIn](https://linkedin.com/in/manishkumarkondoju) · [kondoju.m@northeastern.edu](mailto:kondoju.m@northeastern.edu)
 
 ---
 
-⭐️ From [your-username](https://github.com/your-username)
+## Track record
+
+| | |
+|---|---|
+| **Zero** | SLA breaches across 1,200+ annual cases, 18 months |
+| **45%** | Faster operational response, via Python automation |
+| **80%** | Support questions resolved without a human |
+| **0%** | Hallucination rate on CrimeGraphRAG, across 50 test questions |
+
+## What I do
+
+**Production reliability at scale.** Owned reliability and configuration for 15+ enterprise trading applications on Citi's Fixed Income & Currencies desk, in a 24x7 APAC/EMEA/NAM rotation.
+
+**Requirements to shipped software.** Translating what the desk actually needs into use cases, acceptance criteria, and configuration that survives a Change Advisory Board.
+
+**Governed AI in regulated environments.** SR 11-7 model risk management, PII masking ahead of LLM calls, and infosec-approved vendor review — AI that clears bank compliance.
+
+**Applied AI, built not read.** RAG pipelines, knowledge graphs, and multi-agent systems — learned by shipping working software with them.
+
+## Selected work
+
+**[CrimeGraphRAG](https://github.com/ManishKondoju/CrimeInvestigationGraph)** — Zero-hallucination crime investigation platform. Every question compiles into Cypher and runs against a Neo4j knowledge graph *before* the model sees anything, so the LLM can only format what the database actually returned. 1,307 nodes, 3,500+ relationships, 9-entity schema, 4–6s end-to-end.
+`Python 3.11` `Neo4j` `LangChain` `Streamlit` `D3.js` `scikit-learn`
+
+**[AgenticSystem](https://github.com/ManishKondoju/AgenticSystem)** — Six coordinated agents taking a raw dataset through profiling, table QA, anomaly detection, and reporting. Agents hand off structured intermediate results rather than raw text, which keeps errors from compounding down the chain.
+`CrewAI` `Google TAPAS` `Isolation Forest` `Streamlit` `Plotly`
+
+**[Prompt2Track](https://github.com/ManishKondoju/Prompt2Track)** — One text prompt becomes a finished track: lyrics, album art, and generated music. Three generative models orchestrated behind a single request, with long-running audio jobs handled asynchronously so the interface never blocks. 99.7% pipeline success rate.
+`React 18` `FastAPI` `MusicGen Large` `DALL·E 3` `GPT-4`
+
+**[Health Compass](https://github.com/ManishKondoju/Health_Compass)** — RAG platform turning medical questions, lab reports, and symptom logs into answers cited straight back to MedlinePlus, CDC, WHO, and NHS. 700+ indexed documents, 13 specialist categories with urgency detection. [Live demo](https://healthcompass22.streamlit.app/)
+`Python` `ChromaDB` `Sentence-Transformers` `OpenRouter (Llama 3.2)` `OCR`
+
+## Toolkit
+
+**Languages** Python · SQL · JavaScript · Shell/Bash · PowerShell
+**AI & automation** LangChain · CrewAI · AutoGen · RAG pipelines · MCP integrations · Claude Code · n8n
+**Cloud & DevOps** AWS · Azure DevOps · Terraform · Docker · Kubernetes
+**Data & analytics** Oracle SQL · Neo4j · Power BI · Tableau · BigQuery · Snowflake
+**ITSM & monitoring** ServiceNow · Jira · Confluence · Splunk · ITRS Geneos · Grafana · Datadog
+
+**Certified** AWS Solutions Architect – Associate (2024) · Oracle Database SQL Certified Associate (2024) · ITIL v4 Foundation (2022)
+
+---
+
+> I would rather learn a technology by shipping something with it than by reading about it. That is why the reliability work and the building work are the same job.
+
+**Open to** Solutions Engineer · Business Analyst · Application Analyst · System Analyst · Product Owner · AI Consultant roles.
