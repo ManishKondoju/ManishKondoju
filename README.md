@@ -12,7 +12,7 @@ MS Information Systems @ Northeastern (2024–2026, GPA 3.62) · Boston, MA
 
 | | |
 |---|---|
-| **Zero** | SLA breaches across 1,200+ annual cases, 18 months |
+| **Zero** | SLA breaches across 6,250+ annual cases, 18 months |
 | **45%** | Faster operational response, via Python automation |
 | **80%** | Support questions resolved without a human |
 | **0%** | Hallucination rate on CrimeGraphRAG, across 50 test questions |
